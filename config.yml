@@ -50,12 +50,11 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
+          title: Julius Chan
+          subtitle: "Hey There! I'm Julius, a passionate computer science graduate with a diploma in applied artificial intelligence. With a diverse portfolio spanning professional, personal, and academic projects, I bring a wealth of experience and expertise to the table. Whether it's discussing potential collaborations, sharing insights, or simply exchanging ideas, I'm always open to connecting with like-minded individuals."
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Julius
           buttons:
             - name: Papers
               url: papers/
