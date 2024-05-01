@@ -48,9 +48,7 @@ consequat."
     profileMode:
           enabled: true
           title: Julius Chan
-          subtitle: "Hey There!👋 I'm Julius, a passionate computer science graduate with a diploma in applied artificial intelligence. With a diverse portfolio spanning professional, personal, and academic projects, I bring a wealth of experience and expertise to the table. Whether it's discussing potential collaborations, sharing insights, or simply exchanging ideas, I'm always open to connecting with like-minded individuals."
-          imageUrl: "photo_6168235905584839753_y.jpg"
-          imageWidth: 140
+          subtitle: "Hey There!👋 I'm Julius, a tech enthusiast with a diverse portfolio of professional, personal, and academic projects. With hands-on experience in various tech domains and a Bachelor of Science degree in Computer Science, complemented by a diploma in Applied Artificial Intelligence and Business Intelligence, I bring a wealth of expertise to the table, including strong product/project management and tech support skills. Whether it's discussing potential collaborations, sharing insights, or simply exchanging ideas, I'm always open to connecting with like-minded individuals.
           imageHeight: 240
           imageTitle: 
           buttons:
@@ -70,7 +68,7 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:juliuschanjq@gmail.com
         - name: Location
           url: location/
         - name: Office Hours
@@ -80,11 +78,7 @@ consequat."
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/juliuschanjq
 
     assets:
         disableHLJS: true
