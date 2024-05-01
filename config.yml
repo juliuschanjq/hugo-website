@@ -50,8 +50,8 @@ consequat."
           title: Julius Chan
           subtitle: "Hey There!👋 I'm Julius, a passionate computer science graduate with a diploma in applied artificial intelligence. With a diverse portfolio spanning professional, personal, and academic projects, I bring a wealth of experience and expertise to the table. Whether it's discussing potential collaborations, sharing insights, or simply exchanging ideas, I'm always open to connecting with like-minded individuals."
           imageUrl: "photo_6168235905584839753_y.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: 
           buttons:
             - name: Papers
