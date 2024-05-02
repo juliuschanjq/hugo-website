@@ -17,7 +17,7 @@ menu:
         - name: Projects
           url: Projects/
           weight: 2
-        - name: CV
+        - name: Resume
           url: CV/
           weight: 3 
 
