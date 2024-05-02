@@ -59,8 +59,6 @@ consequat."
               url: reports/
             - name: Projects
               url: projects/
-            - name: LinkedIn
-              url: https://www.linkedin.com/in/julius-chan/
 
     socialIcons:
         - name: CV
