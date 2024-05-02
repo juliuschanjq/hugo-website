@@ -27,7 +27,7 @@ consequat."
     author: Julius Chan
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: night 
+    defaultTheme: auto 
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
