@@ -55,16 +55,13 @@ consequat."
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Reports
+              url: reports/
+            - name: Projects
+              url: projects/
+            - name: LinkedIn
+              url: https://www.linkedin.com/in/julius-chan/
+
     socialIcons:
         - name: CV
           url: cv.pdf
