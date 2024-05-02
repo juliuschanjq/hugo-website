@@ -15,11 +15,14 @@ menu:
           url: papers/
           weight: 1
         - name: Projects
-          url: Projects/
+          url: projects/
           weight: 2
+        - name: Report
+          url: report/
+          weight: 3
         - name: Resume
           url: CV/
-          weight: 3 
+          weight: 4
 
 params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.
@@ -59,10 +62,10 @@ consequat."
               url: reports/
             - name: Projects
               url: projects/
+            - name: Resume
+              url: cv.pdf
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: LinkedIn
           url: https://www.linkedin.com/in/julius-chan/
         - name: Email
