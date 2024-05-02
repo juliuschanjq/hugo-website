@@ -65,6 +65,8 @@ consequat."
     socialIcons:
         - name: CV
           url: cv.pdf
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/julius-chan/
         - name: Email
           url: mailto:juliuschanjq@gmail.com
         - name: GitHub
