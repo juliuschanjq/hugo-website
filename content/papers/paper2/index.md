@@ -1,7 +1,7 @@
 ---
 title: "Hooked On The Internet: A Comprehensive 
 Analysis of Internet Addiction" 
-date: 2015-12-01
+date: 2024-05-06
 tags: ["internet addiciton","prevelance","digital habits", causes]
 author: ["Julius Chan"]
 description: "This paper shows the prevelance of internet addiction that is conducted through a comprehensive analysis of literature review and research." 
