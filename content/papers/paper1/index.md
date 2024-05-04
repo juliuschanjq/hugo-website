@@ -5,7 +5,7 @@ date: 2024-05-06
 tags: ["Internet addiction"  "prevalence" 
 "causes" "consequences" "mental health"]
 author: "Author Name"
-description: "This paper shows addresses the prevalance of internet addiction through a comprehensive analysis of literature review and research methodology." 
+description: "This paper shows the prevalance of internet addiction through a comprehensive analysis of literature review and research methodology." 
 cover:
     image: "paper1.png"
     alt: "Image caption"
