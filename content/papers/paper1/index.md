@@ -1,10 +1,11 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
+title: "Hooked On The Internet: A Comprehensive 
+Analysis of Internet Addiction" 
+date: 2024-05-06
+tags: ["Internet addiction"  "prevalence" 
+"causes" "consequences" "mental health"]
 author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+description: "This paper shows addresses the prevalance of internet addiction through a comprehensive analysis of literature review and research methodology." 
 cover:
     image: "paper1.png"
     alt: "Image caption"
