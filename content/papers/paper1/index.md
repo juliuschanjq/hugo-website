@@ -3,7 +3,7 @@ title: "Hooked On The Internet: A Comprehensive
 Analysis of Internet Addiction" 
 date: 2024-05-06
 tags: ["Internet addiction" , "prevalence" 
-,n"causes" , "consequences" , "mental health"]
+,"causes" , "consequences" , "mental health"]
 author: "Author Name"
 description: "This paper shows the prevalance of internet addiction through a comprehensive analysis of literature review and research methodology." 
 cover:
