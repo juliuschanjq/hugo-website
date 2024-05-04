@@ -1,17 +1,16 @@
 ---
-title: "Hooked On The Internet: A Comprehensive 
-Analysis of Internet Addiction" 
+title: "Hooked On The Internet: A Comprehensive Analysis of Internet Addiction" 
 date: 2024-05-06
-tags: ["internet addiciton","prevelance","digital habits", causes]
+tags: ["internet addiction", "prevalence", "digital habits", "causes"]
 author: ["Julius Chan"]
-description: "This paper shows the prevelance of internet addiction that is conducted through a comprehensive analysis of literature review and research." 
-    image: "paper2.png"
-    alt: "Image caption"
-    relative: false
+description: "This paper shows the prevalence of internet addiction that is conducted through a comprehensive analysis of literature review and research." 
+image:
+  path: "paper2.png"
+  alt: "Image caption"
+  relative: false
 editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
-
+  URL: "https://doi.org/10.1073/pnas.1816454115"
+  Text: "Other Journal Name"
 ---
 
 ---
@@ -43,7 +42,6 @@ efforts to address the problems caused by
 excessive internet usage and encourage healthy 
 digital behaviors in today's society.
 
-
 ---
 
 ##### Figure X: Figure caption
@@ -66,11 +64,3 @@ pages = {XXX--YYY},
 title ={Title},
 volume = {Volume},
 year = {Year}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-
