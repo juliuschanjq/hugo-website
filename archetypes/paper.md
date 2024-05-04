@@ -1,5 +1,5 @@
 ---
-title: "Paper Title (less than 70 characters)" 
+title: "Internet Addiction" 
 date: 2012-06-01
 url: /paper/
 aliases: 
@@ -24,13 +24,29 @@ editPost:
 
 - [Paper](/paper.pdf)
 - [Online appendix](/appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
 
 ---
 
 ##### Abstract:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Internet addiction has developed 
+as a major contemporary issue, drawing the 
+attention of researchers, healthcare, and the 
+general public. This paper looks into the various 
+types of internet usage, intending to bring 
+awareness to its prevalence. This 
+research examines the different aspects that 
+contribute to internet addiction, including 
+individual characteristics, and societal 
+influences, using a comprehensive assessment 
+of the literature and unique research findings. 
+Furthermore, the paper investigates how internet 
+addiction affects mental health, interpersonal 
+connections, and academic/work performance. 
+Ultimately, this research adds to continuing 
+efforts to address the problems caused by 
+excessive internet usage and encourage healthy 
+digital behaviors in today's society.
 
 ---
 
