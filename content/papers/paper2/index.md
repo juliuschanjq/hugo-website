@@ -44,23 +44,9 @@ digital behaviors in today's society.
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 1: Figure caption
 
 ![](paper2.png)
 
 ---
 
-##### Citation
-
-Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
-
-```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
