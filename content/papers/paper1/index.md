@@ -4,15 +4,13 @@ Analysis of Internet Addiction"
 date: 2024-05-06
 tags: ["Internet addiction" , "prevalence" 
 ,"causes" , "consequences" , "mental health"]
-author: "Author Name"
+author: "Julius Chan"
 description: "This paper shows the prevalance of internet addiction through a comprehensive analysis of literature review and research methodology." 
 cover:
     image: "paper1.png"
     alt: "Image caption"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
 
 ---
 
